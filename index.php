@@ -31,5 +31,4 @@ previous_posts_link();
 <?php endif; ?>
 <?php wp_footer(); ?>
 </body>
-</html>
 <?php get_footer(); ?>
